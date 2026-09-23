@@ -2,11 +2,14 @@
 
 SUS-AI is a body of principles, guidelines, and real-world practices for using AI tools
 sustainably. Sustainable for the people using them (skills, judgment, autonomy) and
-sustainable for the systems around them (energy, privacy, data sovereignty).
+sustainable for the systems around them (privacy, energy, data sovereignty).
 
 > **If your AI use seems a bit sus(pect), make it SUStainable and safe.**
 
-You are probably already using many of the practices described in the SUS-AI project. The intent of this project is to formalize these practices, based on clear and intuitive principles, with clarity and ease such that any individual and organization can adopt them. Simple and quick-to-evaluate **"SUS checks"** help you identify if any of your practices might be of concern.
+You are probably already using many of the practices described in the SUS-AI project. The intent of this project is to formalize these practices, based on clear and intuitive principles, written so any individual and organization can adopt them. Simple, quick **"SUS checks"** help you identify if any of your practices might be of concern.
+
+For anyone who uses AI tools and wants to use them prudently and safely, from
+non-technical users to technical practitioners.
 
 ---
 
@@ -17,7 +20,7 @@ You are probably already using many of the practices described in the SUS-AI pro
 | [`principles.md`](principles.md) | General principles |
 | [`guidelines/`](guidelines/) | Guidelines for using AI tools (human-facing) and for the supervised AI |
 | [`checks/`](checks/) | **SUS checks**: checklists to evaluate your own AI use (human + technical) |
-| [`recipes/`](recipes/) | Recipes, harness-agnostic setup instructions for you AI tools |
+| [`recipes/`](recipes/) | Recipes — setup instructions your AI tool can execute |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute to the SUS-AI project |
 
 **Reading order:** principles → guidelines → run the SUS checks on your own setup →
@@ -33,8 +36,7 @@ both intuitive and supported by evidence that the difference between AI tools th
 help versus AI tools that harm is not the tools and models themselves, but instead
 the practices around their use. The SUS-AI Project collects those practices in one
 place, in plain language (where possible), enables easy checks on them, and provides
-vetted recipes that your own AI tools can execute to implement them. Nothing provided
-by the project provides formal certification, but instead risk reduction you can
+vetted recipes that your own AI tools can execute to implement them. Nothing here is a formal certification, but instead risk reduction you can
 verify yourself.
 
 ## Status
