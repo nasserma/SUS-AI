@@ -20,9 +20,3 @@ A guideline is not a rule with an enforcement mechanism. It is a default you ado
 voluntarily, and the [SUS checks](../checks/) tell you whether your actual practices
 match it. A check that keeps failing usually means a guideline was skipped, not that
 the check is wrong.
-
-## Adding guidelines
-
-New guidelines are rarely accepted, and contributions go through
-[CONTRIBUTING.md](../CONTRIBUTING.md). A guideline must state a behavior, not an
-aspiration — something a person (or a supervised AI) either does or does not do.
