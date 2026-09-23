@@ -30,7 +30,7 @@ Every recipe follows this structure, in this order:
    credential as a placeholder and every non-public endpoint generalized.
 4. **Constraints** — what the supervised AI must never do: transmit secrets, retain
    credentials, send data anywhere the recipe does not name.
-5. **Verification** — which sus checks to run on the finished setup and what pass
+5. **Verification** — which SUS checks to run on the finished setup and what pass
    looks like. The user's own check run is the verification.
 
 ## The scrubbing rule (hard requirement)
@@ -60,7 +60,7 @@ the recipe).
 Accepted recipes are marked with the review date. Rejection comes with reasons; a
 revised resubmission is always welcome.
 
-## The bar for new sus checks
+## The bar for new SUS checks
 
 A new check is accepted only if it tests something a person can **verify in under a
 minute** and would **plausibly get wrong** without the check. Checks are few on

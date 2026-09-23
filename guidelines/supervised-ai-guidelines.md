@@ -63,5 +63,5 @@ the next scheduled review. (Maps to P9, T10.)
 
 ---
 
-Each guideline maps to the sus checks in [`checks/`](../checks/); the recipes in
+Each guideline maps to the SUS checks in [`checks/`](../checks/); the recipes in
 [`recipes/`](../recipes/) are the setups that put the technical checks within reach.

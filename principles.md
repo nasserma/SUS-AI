@@ -1,7 +1,7 @@
 # SUS-AI Principles
 
 The general principles of sustainable AI use. Each principle is stated so it can
-be checked — every one has at least one **sus check** (in [`checks/`](checks/))
+be checked — every one has at least one **SUS check** (in [`checks/`](checks/))
 that tests it, and the recipes (in [`recipes/`](recipes/)) carry the operational
 detail.
 
@@ -66,7 +66,7 @@ one that is sustainable now.
 
 ---
 
-Each principle maps to **sus checks** in [`checks/`](checks/) and, where setup is
+Each principle maps to **SUS checks** in [`checks/`](checks/) and, where setup is
 involved, to a recipe in [`recipes/`](recipes/).
 
 
