@@ -12,8 +12,8 @@ Try to complete tasks yourself before resorting to an AI tool. Write the paragra
 attempt the derivation, draft the code, before you resort to AI assistance. Guardrailed AI use (attempt, then check) is what the learning evidence supports; consumption
 of pre-made answers is what the learning evidence warns against. (Maps to check H7.)
 
-Your attempt does not need to be successful, but engaged and disciplined problem-
-solving is how we learn and maintain our cognitive abilities. If you cannot remember
+Your attempt does not need to be successful, but engaged and disciplined
+problem-solving is how we learn and maintain our cognitive abilities. If you cannot remember
 your last unassisted attempt at a task that you routinely delegate to AI tools
 (or other humans!), that is a signal that you should attempt it yourself.
 
@@ -50,8 +50,8 @@ to it will be handled once it leaves your system, that should be corrected. (Map
 Assume anything you type into a cloud AI tool could be read by a stranger, retained
 indefinitely, and used in training. Do not provide secrets, sensitive personal data
 (yours or others) or anything else that you would be uncomfortable putting on a
-postcard and dropping in the mail. Sensitive data should be reserved for local self-
-hosted AI tools with known data paths and boundaries. (Maps to checks T1, T2.)
+postcard and dropping in the mail. Sensitive data should be reserved for local
+self-hosted AI tools with known data paths and boundaries. (Maps to checks T1, T2.)
 
 ## 6. Keep receipts
 

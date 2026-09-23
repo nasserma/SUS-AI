@@ -39,12 +39,12 @@ Every piece of data sent to a non-local (cloud) service is data leaving your
 control, permanently. Understanding the path of your data (device → harness
 → API → provider → retention) is a precondition for every privacy decision.
 
-## P6 — Secrets stay local, permissions are non-persistent
+## P6 — Secrets (passwords, keys, sign-in details) stay local
 
-Secrets, especially credentials, live in one place locally and are scoped as
-narrowly as the task allows. Secrets are never shared with untrusted tools,
-especially AI tools. Any credentials that cannot maintain these strict constraints
-are rotated frequently.
+Secrets — passwords, access keys, tokens, anything that unlocks an account or a
+system — live in one place locally and are shared only as narrowly as the task
+allows. Secrets are never given to untrusted tools, especially AI tools. Any
+secret that cannot meet these constraints is replaced frequently.
 
 ## P7 — Log enough to audit, not enough to surveil
 
