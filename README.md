@@ -15,7 +15,7 @@ You are probably already using many of the practices described in the SUS-AI pro
 | Path | What it is |
 |---|---|
 | [`principles.md`](principles.md) | General principles |
-| [`guidelines/`](guidelines/) | Human guidelines for using AI tools |
+| [`guidelines/`](guidelines/) | Guidelines for using AI tools (human-facing) and for the supervised AI |
 | [`checks/`](checks/) | **Sus checks**: checklists to evaluate your own AI use (human + technical) |
 | [`recipes/`](recipes/) | Recipes, harness-agnostic setup instructions for you AI tools |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute to the SUS-AI project |
