@@ -12,7 +12,7 @@ issues, with discussion to follow. Standard contributions include:
 
 - **Recipes** (`recipes/…`) for AI infrastructure components which are harness-agnostic,
   written for the user to execute themselves or with AI assistance.
-- **SUS checks** — additions to the check lists in `checks/`: binary, pass/fail items
+- **SUS checks** — additions to the checklists in `checks/`: binary, pass/fail items
   a person can run against their own AI use. Rarely accepted; every proposal goes
   through the bar below.
 - **Translations** of existing content.

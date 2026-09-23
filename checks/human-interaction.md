@@ -1,7 +1,7 @@
 # SUS Checks — Human Interaction
 
 Is your AI use sustainable *for you*, for your skills, judgment, and learning?
-This check-list is meant to help you find out; run it top to bottom, with every
+This checklist is meant to help you find out; run it top to bottom, with every
 item pass/fail. **Any fail motivates action and does not constitute a crisis.**
 See the [guidelines](../guidelines/) for how to take action to improve your AI
 tool use.

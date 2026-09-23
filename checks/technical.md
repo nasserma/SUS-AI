@@ -1,9 +1,9 @@
 # SUS Checks — Technical
 
-Is your AI use technically sustainable including privacy, data sovereignty,
-credentials, energy, and access? This check-list is meant to help you find out,
-run top to bottom, per AI tool or harness in use, with every item being pass/fail.
-**Any fail motivates action and does not constitute a crisis.** See the  [recipes](../recipes/) 
+Is your AI use technically sustainable, including privacy, data sovereignty,
+credentials, energy, and access? This checklist is meant to help you find out;
+run it top to bottom, per AI tool or harness in use, with every item pass/fail.
+**Any fail motivates action and does not constitute a crisis.** See the [recipes](../recipes/)
 to fix these.
 
 Each item in the checklist maps to the principle(s) it tests.
@@ -35,20 +35,20 @@ answer "what did it do and why" — and does not keep sensitive data from myself
 others.
 
 **T7 — Energy conscious.** (P3) Routine low-complexity tasks do not default to an AI
-tool or model that is overly capable; model choice per task class is a decision 
-that I made or reviewed/varified, not a default setting.
+tool or model that is overly capable; model choice per task class is a decision
+that I made or verified, not a default setting.
 
 **T8 — Rebuildable from documentation.** (P8) This setup could be reconstructed
-from scratch, from its documentation alone, by myself or someone else using 
-documentation that both exists and is up-to-date.
+from scratch, from its documentation alone, by myself or someone else, and that
+documentation exists and is up-to-date.
 
 **T9 — Backup proven by restore.** (P8) The most important state (configs,
 credentials inventory, knowledge bases) has been restored from backup at least
 once in the past 6 months.
 
-**T10 — Change detection.** (P9) I have a processes in place to be made aware of
-when a provider changes terms, retention, or pricing that affects my AI setup. 
+**T10 — Change detection.** (P9) I have processes in place to be made aware of
+when a provider changes terms, retention, or pricing that affects my AI setup.
 
 **T11 — Failure blast radius known.** (P6, P5) If this tool, its secrets, or its
 provider were compromised tomorrow, I can name what is exposed and how far it
-reaches. What I name being exposed is an acceptable risk to me.
+reaches. What I can name as exposed is an acceptable risk to me.
