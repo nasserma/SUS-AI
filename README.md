@@ -9,7 +9,8 @@ sustainable for the systems around them (privacy, energy, data sovereignty).
 You are probably already using many of the practices described in the SUS-AI project. The intent of this project is to formalize these practices, based on clear and intuitive principles, written so any individual and organization can adopt them. Simple, quick **"SUS checks"** help you identify if any of your practices might be of concern.
 
 For anyone who uses AI tools and wants to use them prudently and safely, from
-non-technical users to technical practitioners.
+non-technical users to technical practitioners. For background on the thinking
+behind this project, see [this article on the SUS-AI project](https://countercurrent.ca/notes/making-ai-use-sustainable-sus-ai/).
 
 ---
 
@@ -45,6 +46,8 @@ The SUS-AI Project is **evolving and public**. It grows as practices are tested
 and contributions are welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md). Recipes
 for AI infrastructure components are especially welcome, but all contributions
 are vetted by the project maintainers before acceptance.
+
+Current version: **0.1** (alpha).
 
 ## License
 
