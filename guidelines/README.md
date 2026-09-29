@@ -1,14 +1,14 @@
 # SUS-AI Guidelines
 
 The guidelines are the behavioral layer of SUS-AI: between the principles (the why)
-and the SUS checks (the audit), they state the practices themselves — how you
+and the SUS checks (the audit); they state the practices themselves, how you
 actually use AI tools day to day, and what you ask your AI to do.
 
 There are two files, for two audiences:
 
-- **[Guidelines for (Humans) Using AI Tools](human-ai-guidelines.md)** — addressed
+- **[Guidelines for (Humans) Using AI Tools](human-ai-guidelines.md)**, addressed
   to the person using AI tools. Read these; they are deliberately brief.
-- **[Guidelines for Supervised AI Agents](supervised-ai-guidelines.md)** — addressed
+- **[Guidelines for Supervised AI Agents](supervised-ai-guidelines.md)**, addressed
   to the AI doing the work. Hand this file to your AI as standing instructions; it
   is written to be read by the AI itself, under your supervision.
 

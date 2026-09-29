@@ -1,4 +1,4 @@
-# Contributing to the SUS-AI Project
+# Contributing to the SUS-AI project
 
 The SUS-AI project is an evolving body of knowledge, not a software project:
 **submissions are documentation only.**
@@ -12,7 +12,7 @@ issues, with discussion to follow. Standard contributions include:
 
 - **Recipes** (`recipes/…`) for AI infrastructure components which are harness-agnostic,
   written for the user to execute themselves or with AI assistance.
-- **SUS checks** — additions to the checklists in `checks/`: binary, pass/fail items
+- **SUS checks**: additions to the checklists in `checks/`; binary, pass/fail items
   a person can run against their own AI use. Rarely accepted; every proposal goes
   through the bar below.
 - **Translations** of existing content.
@@ -21,21 +21,21 @@ issues, with discussion to follow. Standard contributions include:
 
 Every recipe follows this structure, in this order:
 
-1. **Goal** — one paragraph: what this setup achieves and for whom.
-2. **SUS checks targeted** — explicit mapping to the checks in `checks/`. If a setup
+1. **Goal**: one paragraph, what this setup achieves and for whom.
+2. **SUS checks targeted**: explicit mapping to the checks in `checks/`. If a setup
    fails a check it does not target, say so in a *Known gaps* section rather than
    staying silent.
-3. **Recipe** — setup instructions, written as instructions to be executed with the
+3. **Recipe**: setup instructions, written as instructions to be executed with the
    assistance of the user's supervised AI: complete and annotated, with every
    credential as a placeholder and every non-public endpoint generalized.
-4. **Constraints** — what the supervised AI must never do: transmit secrets, retain
+4. **Constraints**: what the supervised AI must never do; transmit secrets, retain
    credentials, send data anywhere the recipe does not name.
-5. **Verification** — which SUS checks to run on the finished setup and what pass
+5. **Verification**: which SUS checks to run on the finished setup and what pass
    looks like. The user's own check run is the verification.
 
 ## The scrubbing rule (hard requirement)
 
-Guides are **written from scratch against upstream documentation** — never
+Guides are **written from scratch against upstream documentation**, never
 copy-sanitized from a live working setup. Before submitting, verify your guide contains:
 
 - no tokens, keys, or passwords, including "test" ones;
@@ -54,11 +54,17 @@ vetting questions below.
 Vetting then asks three questions, applied in order: is it safe (scrubbing holds,
 nothing exposes a reader whose AI follows it exactly), is it checkable (the targeted
 checks actually test what the recipe claims), is it consistent (no contradiction
-with principles, guidelines, or other recipes — deliberate differences are argued in
+with principles, guidelines, or other recipes; deliberate differences are argued in
 the recipe).
 
 Accepted recipes are marked with the review date. Rejection comes with reasons; a
 revised resubmission is always welcome.
+
+## Writing style
+
+Body prose avoids em-dashes. Use commas, colons, parentheses, or separate
+sentences instead. Em-dashes are exempt in ID separators only (check IDs such as
+`**T1 — Data path known.**`, principle and guideline headings, and file titles).
 
 ## The bar for new SUS checks
 

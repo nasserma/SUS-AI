@@ -9,7 +9,7 @@ recipe once; the user's AI adapts it to whatever harness they run.
 You reach for a recipe when a SUS check fails and the fix is a setup change, not a
 behavior change: a credential store to put secrets in, a data-path map, a backup
 scheme that has actually been restored. The finished setup owes you a passing run of
-the checks it targets — that run is the acceptance test, not the recipe author's
+the checks it targets; that run is the acceptance test, not the recipe author's
 assurance.
 
 ## How a recipe is used

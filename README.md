@@ -21,7 +21,7 @@ behind this project, see [this article on the SUS-AI project](https://countercur
 | [`principles.md`](principles.md) | General principles |
 | [`guidelines/`](guidelines/) | Guidelines for using AI tools (human-facing) and for the supervised AI |
 | [`checks/`](checks/) | **SUS checks**: checklists to evaluate your own AI use (human + technical) |
-| [`recipes/`](recipes/) | Recipes — setup instructions your AI tool can execute |
+| [`recipes/`](recipes/) | Recipes: setup instructions your AI tool can execute |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute to the SUS-AI project |
 
 **Reading order:** principles → guidelines → run the SUS checks on your own setup →
@@ -35,15 +35,15 @@ large number of people using them have very little time and, frequently, experti
 with which to audit these tools and their practices around these tools. It is
 both intuitive and supported by evidence that the difference between AI tools that
 help versus AI tools that harm is not the tools and models themselves, but instead
-the practices around their use. The SUS-AI Project collects those practices in one
+the practices around their use. The SUS-AI project collects those practices in one
 place, in plain language (where possible), enables easy checks on them, and provides
 vetted recipes that your own AI tools can execute to implement them. Nothing here is a formal certification, but instead risk reduction you can
 verify yourself.
 
 ## Status
 
-The SUS-AI Project is **evolving and public**. It grows as practices are tested
-and contributions are welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md). Recipes
+The SUS-AI project is **evolving and public**. It grows as practices are tested
+and contributions are welcome; see [`CONTRIBUTING.md`](CONTRIBUTING.md). Recipes
 for AI infrastructure components are especially welcome, but all contributions
 are vetted by the project maintainers before acceptance.
 

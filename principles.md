@@ -1,7 +1,7 @@
 # SUS-AI Principles
 
 The general principles of sustainable AI use. Each principle is stated so it can
-be checked — every one has at least one **SUS check** (in [`checks/`](checks/))
+be checked; every one has at least one **SUS check** (in [`checks/`](checks/))
 that tests it, and the recipes (in [`recipes/`](recipes/)) carry the operational
 detail.
 
@@ -22,7 +22,7 @@ it. [3]
 
 ## P3 — Right-size the AI tool to the task
 
-AI tool usage has a significant energy and financial cost; most tasks do not need
+AI tool usage has a real energy and financial cost; most tasks do not need
 the most computational and resource intensive AI tool or model. Choosing the
 lowest-cost AI tool or model is best practice, locally-hosted when possible for
 data sovereignty, cloud when unavoidable. Sustainable AI use minimizes energy around
@@ -41,8 +41,8 @@ control, permanently. Understanding the path of your data (device → harness
 
 ## P6 — Secrets (passwords, keys, sign-in details) stay local
 
-Secrets — passwords, access keys, tokens, anything that unlocks an account or a
-system — live in one place locally and are shared only as narrowly as the task
+Secrets (passwords, access keys, tokens, anything that unlocks an account or a
+system) live in one place locally and are shared only as narrowly as the task
 allows. Secrets are never given to untrusted tools, especially AI tools. Any
 secret that cannot meet these constraints is replaced frequently.
 
@@ -58,7 +58,7 @@ A configuration you cannot rebuild from its documentation is not owned, it is
 borrowed, including the AI model itself. Sustainable AI infrastructure is
 described well enough to be reconstructed.
 
-## P9 — Practices decay; revisit and revise continuously
+## P9 — Practices decay; revisit and revise regularly
 
 AI tools, models, providers, and terms of service change faster than configurations
 do. An AI infrastructure setup that was sustainable in the past is not necessarily

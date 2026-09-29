@@ -69,7 +69,7 @@ deliverables, published writing, anything someone might rely on), say how AI
 tools were used with the understanding that disclosures do not reduce responsibility
 and accountability. (Maps to check H9.)
 
-## 8. Review and re-verify continuously
+## 8. Review and re-verify regularly
 
 AI tools change and evolve constantly, especially those hosted in the cloud/off-premises.
 AI models are swapped, providers change retention and privacy policies, features disappear
